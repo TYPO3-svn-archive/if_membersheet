@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>
+			Language labels for plugin &quot;tx_ifmembersheet_pi1&quot;
+		</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="ff_sheet_general">General</label>
+			<label index="ff_sheet_list">List</label>
+			<label index="ff_sheet_single">Single</label>
+			<label index="ff_general_viewMode">View</label>
+			<label index="ff_general_viewMode_list">Overview</label>
+			<label index="ff_general_viewMode_single">Single</label>
+			<label index="ff_general_template">Template</label>
+			<label index="ff_general_storagePID">Storage Folder</label>
+			<label index="ff_list_singlePID">Single Page</label>
+			<label index="ff_list_thumbMaxW">Thumbnail max. width</label>
+			<label index="ff_list_thumbMaxH">Thumbnail max. height</label>
+			<label index="ff_single_thumbMaxW">Thumbnail max. width</label>
+			<label index="ff_single_thumbMaxH">Thumbnail max. height</label>
+			<label index="ff_single_maxW">max. width</label>
+			<label index="ff_single_maxH">max. height</label>
+			<label index="pi_label_last_name">Last name</label>
+			<label index="pi_label_first_name">First name</label>
+			<label index="pi_label_birthdate">Birthdate</label>
+			<label index="pi_label_age">Age</label>
+			<label index="pi_label_hobbies">Hobbies</label>
+			<label index="pi_label_occupation">Occupation</label>
+			<label index="pi_label_occupation_since">Occupation since</label>
+			<label index="pi_label_picture">Picture</label>
+			<label index="pi_label_text">Description</label>
+			<label index="pi_text_since">since</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="ff_sheet_general">General</label>
+			<label index="ff_sheet_list">List</label>
+			<label index="ff_sheet_single">Single</label>
+			<label index="ff_general_viewMode">Sicht</label>
+			<label index="ff_general_viewMode_list">Übersicht</label>
+			<label index="ff_general_viewMode_single">Einzel</label>
+			<label index="ff_general_template">Vorlage</label>
+			<label index="ff_general_storagePID">Storage Folder</label>
+			<label index="ff_list_singlePID">Single Page</label>
+			<label index="ff_list_thumbMaxW">Thumbnail max. Breite</label>
+			<label index="ff_list_thumbMaxH">Thumbnail max. Höhe</label>
+			<label index="ff_single_thumbMaxW">Thumbnail max. Breite</label>
+			<label index="ff_single_thumbMaxH">Thumbnail max. Höhe</label>
+			<label index="ff_single_maxW">max. Breite</label>
+			<label index="ff_single_maxH">max. Höhe</label>
+			<label index="pi_label_last_name">Name</label>
+			<label index="pi_label_first_name">Vorname</label>
+			<label index="pi_label_birthdate">Geburtsdatum</label>
+			<label index="pi_label_age">Alter</label>
+			<label index="pi_label_hobbies">Hobbies</label>
+			<label index="pi_label_occupation">Tätigkeit</label>
+			<label index="pi_label_occupation_since">Tätig seit</label>
+			<label index="pi_label_picture">Foto</label>
+			<label index="pi_label_text">Beschreibung</label>
+			<label index="pi_text_since">seit</label>
+		</languageKey>
+	</data>
+</T3locallang>

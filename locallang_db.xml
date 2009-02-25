@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'if_membersheet'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_ifmembersheet_member">Members</label>
+			<label index="tx_ifmembersheet_member.first_name">First Name</label>
+			<label index="tx_ifmembersheet_member.last_name">Last Name</label>
+			<label index="tx_ifmembersheet_member.birthdate">Birthdate</label>
+			<label index="tx_ifmembersheet_member.hobbies">Hobbies</label>
+			<label index="tx_ifmembersheet_member.occupations">Occupation</label>
+			<label index="tx_ifmembersheet_member.picture">Picture</label>
+			<label index="tx_ifmembersheet_member.text">Text</label>
+			<label index="tx_ifmembersheet_occupation">Occupation</label>
+			<label index="tx_ifmembersheet_occupation.title">Occupation</label>
+			<label index="tx_ifmembersheet_occupation.since">Occupation since</label>
+			<label index="tt_content.list_type_pi1">Member Infosheet</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="tx_ifmembersheet_member">Mitglieder</label>
+			<label index="tx_ifmembersheet_member.first_name">Vorname</label>
+			<label index="tx_ifmembersheet_member.last_name">Nachname</label>
+			<label index="tx_ifmembersheet_member.birthdate">Geburtsdatum</label>
+			<label index="tx_ifmembersheet_member.hobbies">Hobbies</label>
+			<label index="tx_ifmembersheet_member.occupations">Tätigkeit</label>
+			<label index="tx_ifmembersheet_member.picture">Foto</label>
+			<label index="tx_ifmembersheet_member.text">Text</label>
+			<label index="tx_ifmembersheet_occupation">Tätigkeit</label>
+			<label index="tx_ifmembersheet_occupation.title">Tätigkeit</label>
+			<label index="tx_ifmembersheet_occupation.since">Tätigkeit seit</label>
+		</languageKey>
+	</data>
+</T3locallang>

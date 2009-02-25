@@ -1,0 +1,29 @@
+plugin.tx_ifmembersheet_pi1 {
+ 	_CSS_DEFAULT_STYLE (
+ 		.tx-ifmembersheet-pi1 {
+			width: 100%;
+		}
+ 	
+ 		.tx-ifmembersheet-pi1 span {
+			font-weight: bold;
+		}
+		
+		.tx-ifmembersheet-pi1 ul {
+			list-style-type: none;
+		}
+		
+ 		.tx-ifmembersheet-pi1 #tx-ifmembersheet-pi1-data {
+
+ 		}
+ 		
+ 		.tx-ifmembersheet-pi1 #tx-ifmembersheet-pi1-data td {
+			overflow: hidden;
+ 		}
+ 		
+ 		.tx-ifmembersheet-pi1 #tx-ifmembersheet-pi1-picture {
+
+ 		}
+ 	);
+ 		
+	labels.wrap = <span>|</span>
+}
